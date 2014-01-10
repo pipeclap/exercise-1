@@ -1,0 +1,53 @@
+@charset "UTF-8";
+/* CSS Document */
+
+/* Purpure box/*/ 
+.box_round {
+	line-height: 25px;
+	background-color: #941751;
+	padding: 70px;
+	width: 600px;
+	border-radius: 15px;
+	float: inherit;
+}
+
+/* question marks/*/
+.bqstart {
+	float: left;
+	font-size: 620%;
+	color: #B82D5D;
+	font-family: Arial, Helvetica, sans-serif;
+	padding-top: 25px;
+	margin-left: -45px;
+}
+
+.bqend {
+	float: right;
+	font-size: 620%;
+	color: #B82D5D;
+	font-family: Arial, Helvetica, sans-serif;
+	margin-right: -45PX;
+	padding-top: 10%;
+}
+
+/*/ quote text/*/
+
+body {
+	font-size: 115%;
+	font-family: Georgia, "Times New Roman", Times, serif;
+	color: #FFF;
+	margin-top: 15%;
+	margin-left: 400px;
+	max-width: 150px;
+	background-color: #320318;
+	background-position: center;
+}
+
+/*/ author/*/
+
+.cite {
+	font-family:Arial, Helvetica, sans-serif;
+	color: #F4A3C0;
+	float: right;
+}
+
